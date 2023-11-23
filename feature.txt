@@ -1,0 +1,2 @@
+One of the preferred features is that you can save all project versions in one directory, git is supported by multiple platforms, is an open source. 
+I also like the simple branching strategy.
